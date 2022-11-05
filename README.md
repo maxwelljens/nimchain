@@ -29,12 +29,6 @@ What nimchain *does not* have:
 - Networking
 - Census algorithm
 
-## But where is nimchain?
-
-**Note:** You can sign in with your GitHub account.
-
-[https://maxwelljensen.no/git/maxwelljensen/nimchain](https://maxwelljensen.no/git/maxwelljensen/nimchain)
-
 ## Licence
 
 This project is licensed under [European Union Public Licence
